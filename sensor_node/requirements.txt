@@ -1,0 +1,7 @@
+aiohttp==3.12.14
+grpcio==1.73.1
+grpcio-tools==1.73.1
+protobuf==6.31.1
+python-dotenv==1.1.1
+sqlalchemy==2.0.41
+ruff==0.12.2
