@@ -61,3 +61,6 @@ python -m telemetry_sink.main
 ```
 
 You would see logs indicating that the Sensor Node is generating and sending data, while the Telemetry Sink is receiving and processing it.
+
+
+5. SQL Task could be find in sql_task directory.
